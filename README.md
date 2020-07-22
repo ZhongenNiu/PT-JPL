@@ -11,3 +11,6 @@ Sobol' global sensitivity analysis code, the code was provided by Kun Zhang.
 
 DEMCmain.m:
 Differential Evolution Markov Chain code, which used to optimized the sensitivity parameters, and the code was provided by Kun Zhang
+
+LAI_Preparation.m:
+Preparation of leaf area index data
